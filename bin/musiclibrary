@@ -7,7 +7,7 @@ require_relative
 
 MusicLibraryController.new.call
 
-MusicLibraryController.new.list_songs
+MusicLibraryController.list_songs
 
 list_artists
 
