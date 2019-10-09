@@ -5,9 +5,9 @@ require_relative '../config/environment'
 require_relative
 require_relative
 
-thing = MusicLibraryController.new.call
+MusicLibraryController.new.call
 
-list_songs(thing)
+MusicLibraryController.new.list_songs
 
 list_artists
 
