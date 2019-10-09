@@ -9,3 +9,9 @@ MusicLibraryController.new.call
 
 list_songs
 
+list_artists
+
+list_genres
+
+list_artist
+
