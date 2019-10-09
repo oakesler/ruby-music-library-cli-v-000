@@ -32,9 +32,9 @@ class MusicLibraryController
           elsif user_input_1 == "list genres"
           list_genres
           elsif user_input_1 == "list artist"
-          #kjf;kjl
+          list_songs_by_artist
           elsif user_input_1 == "list genre"
-          #sj;slkfj
+          list_songs_by_genre
         end
       end
     end
