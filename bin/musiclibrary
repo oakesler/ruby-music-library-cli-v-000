@@ -6,3 +6,5 @@ require_relative
 require_relative
 
 MusicLibraryController.new.call
+
+list_songs
